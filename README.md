@@ -1,2 +1,3 @@
 # RustingGCC
-Subset of C compiler in Rust
+Compiler for a subset of C written in Rust using :
+- Pest Parser
